@@ -20,7 +20,7 @@ function tweetIt(){
     if(err){
       console.log("something went wrong!");
     }else{
-      console.log("it worked !");
+      console.log("it workedd !");
     }
   }
 }
